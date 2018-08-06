@@ -3,6 +3,6 @@
 [
 {"id" :1, "name": "john", "age": 21},
 {"id" :2, "name": "joseph", "age": 31},
-{"id" :3, "name": "jessy", "age": 41},
+{"id" :3, "name": "jessy", "age": 41}
 ]
 } 
